@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/olipop/Documents/CS-11/FInal Project",
+      "environment": [],
+      "program": "/Users/olipop/Documents/CS-11/FInal Project/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "console": "integratedTerminal"
+    }
+  ]
+}
